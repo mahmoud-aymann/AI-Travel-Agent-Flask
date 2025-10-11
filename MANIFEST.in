@@ -1,0 +1,15 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include requirements.txt
+include env.example
+include setup.py
+include run_script.py
+include app.py
+recursive-include templates *.html
+recursive-include static *.css *.js
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .env
+global-exclude *.log
