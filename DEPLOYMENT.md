@@ -3,7 +3,7 @@
 This guide covers various deployment options for the AI Travel Agent application.
 
 ## Table of Contents
-##
+
 - [Local Development](#local-development)
 - [Docker Deployment](#docker-deployment)
 - [Cloud Deployment](#cloud-deployment)
