@@ -1,5 +1,5 @@
 # Contributing to AI Travel Agent
-###################
+
 Thank you for your interest in contributing to the AI Travel Agent project! This document provides guidelines for contributing to the project.
 
 ## How to Contribute
