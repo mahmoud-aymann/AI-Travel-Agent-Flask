@@ -2,7 +2,7 @@
 
 A powerful AI-powered travel planning application built with Flask that helps you plan your perfect trip with real-time data and detailed cost calculations.
 
-## ✨ Features
+## ✨ Features ##
 
 - **AI-Powered Travel Planning**: Uses OpenAI GPT-4 for intelligent travel recommendations
 - **Real-Time Weather Data**: Get current weather information for your destination
