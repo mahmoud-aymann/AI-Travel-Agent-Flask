@@ -1,5 +1,5 @@
 # 🌍 AI Travel Agent - Flask Version
-##
+
 A powerful AI-powered travel planning application built with Flask that helps you plan your perfect trip with real-time data and detailed cost calculations.
 
 ## ✨ Features ##
